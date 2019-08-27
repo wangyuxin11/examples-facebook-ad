@@ -1,2 +1,2 @@
-# examples-facebook-ad
-facebook广告相关案例
+# Facebook Business SDK for Java
+https://github.com/facebook/facebook-java-business-sdk
